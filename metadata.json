@@ -1,0 +1,8 @@
+{
+  "name": "AI Studio Nexus",
+  "description": "Современный одностраничный сайт с интегрированным ИИ-помощником на базе Gemini для демонстрации передовых веб-технологий.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
